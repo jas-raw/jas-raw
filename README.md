@@ -1,0 +1,4 @@
+- 👋 Hi, My name is Jonnathan Sandino
+- 👌 I'm electronic engineer student.
+- ✔ I have knowledgement in Python, JavaScript, HTML, CSS, PHP, TypeScript, Java, C#, C++. SQL and NoSQL databases.
+- 🌱 I’m currently learning French and more about web development
